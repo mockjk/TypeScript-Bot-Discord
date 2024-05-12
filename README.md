@@ -1,1 +1,1 @@
-# TypeScript-Bot-Discord
+Create: start of the project and creating of the bot
