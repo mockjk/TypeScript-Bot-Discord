@@ -5,4 +5,4 @@
 \.env
 
 #TypeScript "compiled" files
-\build
+/build/
