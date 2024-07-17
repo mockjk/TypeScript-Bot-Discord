@@ -1,8 +1,8 @@
 # node modules
 \node_modules
 
-#.env
-\.env
+#data
+\data
 
 #TypeScript "compiled" files
 /build/
