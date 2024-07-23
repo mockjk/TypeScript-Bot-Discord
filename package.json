@@ -17,7 +17,6 @@
   "dependencies": {
     "@types/node": "^20.12.11",
     "discord.js": "^14.15.2",
-    "dotenv": "^16.4.5",
     "glob": "^10.4.3",
     "mongoose": "^8.5.1",
     "ts-node": "^10.9.2"

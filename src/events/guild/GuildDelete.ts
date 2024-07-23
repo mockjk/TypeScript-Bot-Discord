@@ -1,7 +1,7 @@
 import { Events, Guild } from "discord.js";
 import CustomClient from "../../base/classes/CustomClient";
 import Event from "../../base/classes/Event";
-import GuildsConfig from "../../base/schemas/GuildsConfig";
+import GuildsConfig from "../../base/schemas/GuildConfig";
 
 export default class GuildDelete extends Event{
     constructor(client: CustomClient){
