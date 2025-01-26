@@ -17,6 +17,7 @@
   "dependencies": {
     "@types/ms": "^0.7.34",
     "@types/node": "^20.12.11",
+    "discord-arts": "^0.6.2",
     "discord.js": "^14.15.2",
     "glob": "^10.4.3",
     "mongoose": "^8.5.1",
